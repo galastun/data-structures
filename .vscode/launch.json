@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LinkedListDemo",
+      "request": "launch",
+      "mainClass": "java.linkedlist.LinkedListDemo",
+      "projectName": "data-structures_30ec2b55"
+    }
+  ]
+}
